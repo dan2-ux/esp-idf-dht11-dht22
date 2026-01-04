@@ -4,7 +4,7 @@ This repository demonstrates how to interface DHT11 and DHT22 temperature and hu
 
 Both sensors provide temperature and relative humidity data and are commonly used in embedded and IoT projects.
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/64293a98-953e-4d7e-b100-586ffc03facf" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/64293a98-953e-4d7e-b100-586ffc03facf" />
 
 ## Sensor Overview
 - DHT11 is suitable for basic applications
